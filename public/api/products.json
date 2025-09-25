@@ -1,0 +1,118 @@
+[
+  {
+    "id": "1",
+    "name": "Pizza Margherita",
+    "description": "Salsa de tomate, mozzarella fresca, albahaca",
+    "price": 120,
+    "category": "Traditional",
+    "image": "marga.png",
+    "sizes": [
+      { "name": "Personal (20cm)", "multiplier": 1 },
+      { "name": "Mediana (25cm)", "multiplier": 1.5 },
+      { "name": "Familiar (30cm)", "multiplier": 2 }
+    ],
+    "crusts": [
+      "Masa Tradicional",
+      "Masa Delgada", 
+      "Masa Gruesa",
+      "Masa Integral"
+    ],
+    "toppings": [
+      { "name": "Pepperoni Extra", "price": 15 },
+      { "name": "Champiñones", "price": 10 },
+      { "name": "Pimientos", "price": 8 },
+      { "name": "Cebolla", "price": 8 },
+      { "name": "Aceitunas", "price": 12 },
+      { "name": "Jamón", "price": 15 },
+      { "name": "Salchicha", "price": 15 },
+      { "name": "Piña", "price": 10 },
+      { "name": "Tomate Cherry", "price": 12 },
+      { "name": "Queso Extra", "price": 20 },
+      { "name": "Jalapeños", "price": 8 },
+      { "name": "Tocino", "price": 18 },
+      { "name": "Pollo", "price": 20 },
+      { "name": "Carne Molida", "price": 22 },
+      { "name": "Anchoas", "price": 15 }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Pizza Pepperoni",
+    "description": "Salsa de tomate, mozzarella, pepperoni",
+    "price": 140,
+    "category": "Traditional",
+    "image": "pepe.png"
+  },
+  {
+    "id": "3",
+    "name": "Pizza Hawaiana",
+    "description": "Salsa de tomate, mozzarella, jamón, piña",
+    "price": 150,
+    "category": "Traditional", 
+    "image": "hawai.png"
+  },
+  {
+    "id": "4",
+    "name": "Pizza Mexicana",
+    "description": "Salsa de tomate, mozzarella, jalapeños, chorizo, cebolla",
+    "price": 160,
+    "category": "Traditional",
+    "image": "mexa.png"
+  },
+  {
+    "id": "5",
+    "name": "Pizza Cuatro Quesos",
+    "description": "Mozzarella, parmesano, gorgonzola, queso de cabra",
+    "price": 180,
+    "category": "Gourmet",
+    "image": "quesos.png"
+  },
+  {
+    "id": "6",
+    "name": "Pizza Prosciutto",
+    "description": "Salsa blanca, mozzarella, prosciutto, rúcula, tomate cherry",
+    "price": 220,
+    "category": "Gourmet",
+    "image": "pro.png"
+  },
+  {
+    "id": "7",
+    "name": "Pizza Trufa",
+    "description": "Salsa blanca, mozzarella, champiñones, aceite de trufa",
+    "price": 250,
+    "category": "Gourmet",
+    "image": "tru.png"
+  },
+  {
+    "id": "8",
+    "name": "Pizza BBQ",
+    "description": "Salsa BBQ, mozzarella, pollo, cebolla morada, cilantro",
+    "price": 190,
+    "category": "Gourmet",
+    "image": "bbq.png"
+  },
+  {
+    "id": "9",
+    "name": "Coca Cola",
+    "description": "Refresco de cola 355ml",
+    "price": 25,
+    "category": "Drinks",
+    "image": "coca.png"
+  },
+  {
+    "id": "10",
+    "name": "Agua Natural",
+    "description": "Agua purificada 500ml",
+    "price": 15,
+    "category": "Drinks",
+    "image": "agua.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Jugo de Naranja",
+    "description": "Jugo natural de naranja 300ml",
+    "price": 30,
+    "category": "Drinks",
+    "image": "jugo.jpg"
+  }
+]
